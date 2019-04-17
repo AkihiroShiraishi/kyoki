@@ -1333,3 +1333,168 @@ Processing by ArticlesController#index as HTML
 Completed 200 OK in 23ms (Views: 20.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2019-04-17 21:20:32 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 28ms (Views: 25.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-17 21:21:09 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 22ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-17 21:22:15 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 66ms (Views: 63.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-17 21:22:16 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 19ms (Views: 16.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-17 21:22:36 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 57ms (Views: 54.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-17 21:23:09 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 57ms (Views: 54.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-17 21:24:34 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 57ms (Views: 54.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-17 21:26:07 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.4ms)
+Completed 200 OK in 63ms (Views: 60.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-17 21:26:32 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 56ms (Views: 54.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-17 21:27:22 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 65ms (Views: 61.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-17 21:27:54 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.4ms)
+Completed 200 OK in 55ms (Views: 53.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-17 21:28:57 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 29ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Invalid CSS after "  }": expected selector or at-rule, was "}"):
+     6:     <%= csrf_meta_tags %>
+     7:     <%= csp_meta_tag %>
+     8: 
+     9:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    10:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    11:   </head>
+    12: 
+  
+app/assets/stylesheets/articles.scss:59
+app/assets/stylesheets/application.scss:2
+app/views/layouts/application.html.erb:9:in `_app_views_layouts_application_html_erb__182662579717824673_70335960977700'
+Started GET "/" for ::1 at 2019-04-17 21:29:06 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 28ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Invalid CSS after "    }": expected selector or at-rule, was "}"):
+     6:     <%= csrf_meta_tags %>
+     7:     <%= csp_meta_tag %>
+     8: 
+     9:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    10:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    11:   </head>
+    12: 
+  
+app/assets/stylesheets/articles.scss:59
+app/assets/stylesheets/application.scss:2
+app/views/layouts/application.html.erb:9:in `_app_views_layouts_application_html_erb__182662579717824673_70336032598620'
+Started GET "/" for ::1 at 2019-04-17 21:29:19 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 28ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Invalid CSS after "  }": expected selector or at-rule, was "}"):
+     6:     <%= csrf_meta_tags %>
+     7:     <%= csp_meta_tag %>
+     8: 
+     9:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    10:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    11:   </head>
+    12: 
+  
+app/assets/stylesheets/articles.scss:57
+app/assets/stylesheets/application.scss:2
+app/views/layouts/application.html.erb:9:in `_app_views_layouts_application_html_erb__182662579717824673_70335961288860'
+Started GET "/" for ::1 at 2019-04-17 21:29:32 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 54ms (Views: 52.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-17 21:29:44 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 63ms (Views: 61.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-17 21:29:52 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 63ms (Views: 60.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-17 21:30:07 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.4ms)
+Completed 200 OK in 62ms (Views: 60.3ms | ActiveRecord: 0.0ms)
+
+

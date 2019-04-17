@@ -21,6 +21,7 @@
       padding-top:20px;
     }
     &__list{
+      float:left;
       width:500px;
       background-color:#939393;
       margin: 20px 0 0 20px;
@@ -44,5 +45,20 @@
         }
       }
     }
+    &__side{
+      float:right;
+      width:250px;
+      background-color:#9e8b8e;
+      margin:20px 20px 0 0;
+      h4{
+        font-size:23px;
+        margin:8px;
+      }
+    }
   }
+}
+.clearfix{
+  content:"";
+  clear:both;
+  display: block;
 }

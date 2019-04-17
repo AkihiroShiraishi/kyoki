@@ -12,7 +12,7 @@
   }
   .wrapper-article{
     width:800px;
-    padding-bottom:200px;
+    padding-bottom:100px;
     margin:0 auto;
     background-color:#d3d3d3;
     h3{
@@ -47,12 +47,31 @@
     }
     &__side{
       float:right;
-      width:250px;
+      padding:20px;
+      width:210px;
       background-color:#9e8b8e;
       margin:20px 20px 0 0;
       h4{
         font-size:23px;
-        margin:8px;
+      }
+      nav{
+        ul{
+          li{
+             border-bottom:1px solid black;
+             height: 30px;
+             padding:5px 8px;
+             position: relative;
+             .num{
+              position: absolute;
+              top:10px;
+             }
+             .title{
+              position:absolute;
+              top:10px;
+              left:50px;
+             }
+          }
+        }
       }
     }
   }

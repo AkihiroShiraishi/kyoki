@@ -1820,3 +1820,708 @@ Processing by ArticlesController#index as HTML
 Completed 200 OK in 67ms (Views: 64.6ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2019-04-18 13:18:42 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (1.0ms)
+Completed 200 OK in 299ms (Views: 289.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:27:03 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (1.3ms)
+Completed 200 OK in 215ms (Views: 206.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:27:43 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 18ms (Views: 16.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:27:44 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 17ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:28:38 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 37ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:28:38 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 20ms (Views: 17.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:29:29 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 18ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:29:30 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.4ms)
+Completed 200 OK in 20ms (Views: 17.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:29:37 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.4ms)
+Completed 200 OK in 23ms (Views: 20.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:32:50 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.7ms)
+Completed 200 OK in 51ms (Views: 48.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:32:50 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 25ms (Views: 22.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:33:15 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 25ms (Views: 22.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:33:16 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 22ms (Views: 19.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:39:29 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 259ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `“jquery”' for #<#<Class:0x007fb10a02a6d0>:0x007fb10d819960>):
+     8: 
+     9:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    10:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    11:     <%= javascript_include_tag “jquery”, “jquery_ujs” %>
+    12:   </head>
+    13: 
+    14:   <body>
+  
+app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__3557341120744340019_70199206318340'
+Started GET "/" for ::1 at 2019-04-18 13:40:24 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.4ms)
+Completed 200 OK in 20ms (Views: 17.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:40:24 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (0.3ms)
+Completed 200 OK in 23ms (Views: 20.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:43:55 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html within layouts/application
+  Rendered articles/index.html within layouts/application (1.1ms)
+Completed 200 OK in 210ms (Views: 201.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:45:32 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:138: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:138: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 13:45:54 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 27ms (Views: 24.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:46:33 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:138: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:138: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 13:46:46 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:138: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:138: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 13:46:49 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:138: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:138: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 13:47:13 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:138: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:138: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 13:51:39 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:142: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:142: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 13:55:29 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 13:55:41 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 13:55:58 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 18ms (Views: 15.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:58:00 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 181ms (Views: 172.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:58:57 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 229ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `yiel' for #<#<Class:0x007f9c2153e778>:0x007f9c23425ad8>):
+    22:         </div>
+    23:       </div>
+    24:     </header>
+    25:     <%= yiel %>
+    26:     <footer>
+    27:       <p>@copyright/kyoki</p>
+    28:     </footer>
+  
+app/views/layouts/application.html.erb:25:in `_app_views_layouts_application_html_erb___3225201116673467123_70154291607080'
+Started GET "/" for ::1 at 2019-04-18 13:59:04 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 25ms (Views: 22.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 13:59:26 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 23ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 14:01:03 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 26ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 14:01:35 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:11: syntax error, unexpected '\n', expecting '='
+/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:11: syntax error, unexpected '\n', expecting '='
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:01:45 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:03:02 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:03:16 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:03:23 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:03:49 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:03:52 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:04:48 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:04:53 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:06:45 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:06:47 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:07:12 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:07:14 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:07:25 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 202ms (Views: 200.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-18 14:08:14 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:11: syntax error, unexpected '\n', expecting '='):
+  
+app/views/articles/index.html.erb:11: syntax error, unexpected '\n', expecting '='
+Started GET "/" for ::1 at 2019-04-18 14:08:25 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:11: syntax error, unexpected ')', expecting '='
+...ppend=( link_to, article_path );@output_buffer.safe_append='
+...                               ^
+/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:141: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/articles/index.html.erb:11: syntax error, unexpected ')', expecting '='
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/articles/index.html.erb:141: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/" for ::1 at 2019-04-18 14:08:46 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (1.4ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:11: syntax error, unexpected ')', expecting '='
+...ppend=( link_to, article_path );@output_buffer.safe_append='
+...                               ^
+/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:15: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;           end 
+                       ^
+/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:141: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/articles/index.html.erb:11: syntax error, unexpected ')', expecting '='
+app/views/articles/index.html.erb:15: syntax error, unexpected keyword_end, expecting ')'
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/articles/index.html.erb:141: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/" for ::1 at 2019-04-18 14:09:19 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:09:38 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:11: syntax error, unexpected ')', expecting '='
+...pend=( link_to , article_path );@output_buffer.safe_append='
+...                               ^
+/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:15: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;           end 
+                       ^
+/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:141: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/articles/index.html.erb:11: syntax error, unexpected ')', expecting '='
+app/views/articles/index.html.erb:15: syntax error, unexpected keyword_end, expecting ')'
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/articles/index.html.erb:141: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/" for ::1 at 2019-04-18 14:09:51 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/shiraishiakihiro/projects/kyoki/kyoki/app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/articles/index.html.erb:139: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/" for ::1 at 2019-04-18 14:11:10 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (2.4ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"articles"}, missing required keys: [:id]):
+     8:     <div class="wrapper-article__list">
+     9:       <ul>
+    10:         <li>
+    11:           <%= link_to 'タイトル', article_path %>
+    12:           <a>タイトル</a>
+    13:           <a>ユーザーネーム</a>
+    14:           <i class="fa fa-ghost"></i>
+  
+app/views/articles/index.html.erb:11:in `_app_views_articles_index_html_erb___2178776231580582485_70332097394820'
+Started GET "/" for ::1 at 2019-04-18 14:11:33 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (183.5ms)
+Completed 500 Internal Server Error in 190ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `current_user' for #<#<Class:0x007feef41ea290>:0x007feef1596720>
+Did you mean?  current_page?):
+     8:     <div class="wrapper-article__list">
+     9:       <ul>
+    10:         <li>
+    11:           <%= link_to 'タイトル', article_path(current_user) %>
+    12:           <a>タイトル</a>
+    13:           <a>ユーザーネーム</a>
+    14:           <i class="fa fa-ghost"></i>
+  
+app/views/articles/index.html.erb:11:in `_app_views_articles_index_html_erb___2178776231580582485_70332114059160'
+Started GET "/" for ::1 at 2019-04-18 14:11:44 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (3.0ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"articles"}, missing required keys: [:id]):
+     8:     <div class="wrapper-article__list">
+     9:       <ul>
+    10:         <li>
+    11:           <%= link_to 'タイトル', article_path %>
+    12:           <a>タイトル</a>
+    13:           <a>ユーザーネーム</a>
+    14:           <i class="fa fa-ghost"></i>
+  
+app/views/articles/index.html.erb:11:in `_app_views_articles_index_html_erb___2178776231580582485_70332121213500'
+Started GET "/" for ::1 at 2019-04-18 14:12:42 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (169.1ms)
+Completed 500 Internal Server Error in 177ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `id' for #<#<Class:0x007feef41ea290>:0x007feeefde4668>):
+     8:     <div class="wrapper-article__list">
+     9:       <ul>
+    10:         <li>
+    11:           <%= link_to 'タイトル', article_path(id) %>
+    12:           <a>タイトル</a>
+    13:           <a>ユーザーネーム</a>
+    14:           <i class="fa fa-ghost"></i>
+  
+app/views/articles/index.html.erb:11:in `_app_views_articles_index_html_erb___2178776231580582485_70332101634040'
+Started GET "/" for ::1 at 2019-04-18 14:12:44 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (160.7ms)
+Completed 500 Internal Server Error in 168ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `id' for #<#<Class:0x007feef41ea290>:0x007feef12c9c40>):
+     8:     <div class="wrapper-article__list">
+     9:       <ul>
+    10:         <li>
+    11:           <%= link_to 'タイトル', article_path(id) %>
+    12:           <a>タイトル</a>
+    13:           <a>ユーザーネーム</a>
+    14:           <i class="fa fa-ghost"></i>
+  
+app/views/articles/index.html.erb:11:in `_app_views_articles_index_html_erb___2178776231580582485_70332112653020'
+Started GET "/" for ::1 at 2019-04-18 14:13:49 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 178ms (Views: 169.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for ::1 at 2019-04-18 14:13:51 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for ::1 at 2019-04-18 14:14:21 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 19ms (Views: 16.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for ::1 at 2019-04-18 14:14:36 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 36ms (Views: 34.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for ::1 at 2019-04-18 14:14:49 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 22ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for ::1 at 2019-04-18 14:16:02 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 18.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for ::1 at 2019-04-18 14:16:13 +0900
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  Rendered articles/index.html.erb within layouts/application (8.2ms)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"articles"}, missing required keys: [:id]):
+     8:     <div class="wrapper-article__list">
+     9:       <ul>
+    10:         <li>
+    11:           <%= link_to 'タイトル', article_path %>
+    12:           <%= link_to 'ユーザーネーム', article_path %>
+    13:           <i class="fa fa-ghost"></i>
+    14:         </li>
+  
+app/views/articles/index.html.erb:11:in `_app_views_articles_index_html_erb___1618765253558373867_70333465954140'
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[35m (1.4ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[35m (1.1ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[36mActiveRecord::InternalMetadata Create (0.3ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2019-04-18 05:41:03.752548"], ["updated_at", "2019-04-18 05:41:03.752548"]]
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/shiraishiakihiro/.rbenv/versions/2.3.1/bin/rake:23

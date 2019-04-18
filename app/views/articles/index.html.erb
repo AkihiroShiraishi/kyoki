@@ -7,77 +7,12 @@
     <h3>新着記事</h3>
     <div class="wrapper-article__list">
       <ul>
-        <li>
-          <%= link_to 'タイトル', article_path %>
-          <%= link_to 'ユーザーネーム', article_path %>
-          <i class="fa fa-ghost"></i>
-        </li>
-        <li>
-          <a>タイトル</a>
-          <a>ユーザーネーム</a>
-          <i class="fa fa-ghost"></i>
-        </li>
-        <li>
-          <a>タイトル</a>
-          <a>ユーザーネーム</a>
-          <i class="fa fa-ghost"></i>
-        </li>
-        <li>
-          <a>タイトル</a>
-          <a>ユーザーネーム</a>
-          <i class="fa fa-ghost"></i>
-        </li>
-        <li>
-          <a>タイトル</a>
-          <a>ユーザーネーム</a>
-          <i class="fa fa-ghost"></i>
-        </li>
-        <li>
-          <a>タイトル</a>
-          <a>ユーザーネーム</a>
-          <i class="fa fa-ghost"></i>
-        </li>
-        <li>
-          <a>タイトル</a>
-          <a>ユーザーネーム</a>
-          <i class="fa fa-ghost"></i>
-        </li>
-        <li>
-          <a>タイトル</a>
-          <a>ユーザーネーム</a>
-          <i class="fa fa-ghost"></i>
-        </li>
-        <li>
-          <a>タイトル</a>
-          <a>ユーザーネーム</a>
-          <i class="fa fa-ghost"></i>
-        </li>
-        <li>
-          <a>タイトル</a>
-          <a>ユーザーネーム</a>
-          <i class="fa fa-ghost"></i>
-        </li>
-        <li>
-          <a>タイトル</a>
-          <a>ユーザーネーム</a>
-          <i class="fa fa-ghost"></i>
-        </li>
-        <li>
-          <a>タイトル</a>
-          <a>ユーザーネーム</a>
-          <i class="fa fa-ghost"></i>
-        </li>
-        <li>
-          <a>タイトル</a>
-          <a>ユーザーネーム</a>
-          <i class="fa fa-ghost"></i>
-        </li>
-        <li>
-          <a>タイトル</a>
-          <a>ユーザーネーム</a>
-          <i class="fa fa-ghost"></i>
-        </li>
-
+        <%- @articles.each do |article| %>
+          <li>
+            <%= link_to article.title, article_path(article.id) %>
+            <i class="fa fa-ghost"></i>
+          </li>
+        <% end %>
       </ul>
     </div>
     <div class="wrapper-article__side">

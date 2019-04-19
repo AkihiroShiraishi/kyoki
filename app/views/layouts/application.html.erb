@@ -17,8 +17,14 @@
           <%= link_to '恐記', root_path, class: "logo" %>
         </div>
         <div class="header-wrapper__right">
-          <a>新規登録</a>
-          <a>ログイン</a>
+          <% if user_signed_in? %>
+          <a>マイページ</a>
+          <%= link_to "ログアウト", destroy_user_session_path, method: :delete %>
+          <a>投稿する</a>
+          <% else %>
+          <%= link_to '新規登録', new_user_registration_path %>
+          <%= link_to 'ログイン', new_user_session_path %>
+          <% end %>
         </div>
       </div>
     </header>
